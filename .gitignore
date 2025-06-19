@@ -1,0 +1,15 @@
+# Python bytecode files
+_pycache_/
+*.py[cod]
+
+# Virtual environments
+objdet/
+Python3.10.10/
+
+# Batch file for environment activation
+envact.bat
+
+# Other IDE and system files
+.idea/
+.vscode/
+*.log
